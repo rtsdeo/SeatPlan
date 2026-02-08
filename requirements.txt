@@ -1,0 +1,10 @@
+fastapi==0.115.6
+uvicorn==0.32.1
+sqlmodel==0.0.22
+pydantic==2.10.3
+python-multipart==0.0.19
+pypdf==5.1.0
+rapidfuzz==3.10.1
+reportlab==4.2.5
+pytest==8.3.4
+httpx==0.28.1
